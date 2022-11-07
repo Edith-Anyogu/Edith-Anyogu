@@ -1,10 +1,5 @@
 ### Hi there 👋
 
-<!--
-**Edith-Anyogu/Edith-Anyogu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on building my techinical skills in Data Analysis and Technical writing
 - 🌱 I’m currently learning Data Analysis in Udacity Nano Degree Program
 - 👯 I’m looking to collaborate on everything Data Analysis, Technical writing
